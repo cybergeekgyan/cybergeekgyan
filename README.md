@@ -45,21 +45,21 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/gyanprakash0221/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanprakash0221&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
+<a href="https://github.com/cybergeekgyan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybergeekgyan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
 </a>
-<a href="https://github.com/gyanprakash0221/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakash0221&layout=compact&theme=material-palenight" />
+<a href="https://github.com/cybergeekgyan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeekgyan&layout=compact&theme=material-palenight" />
 </a>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/gyanprakash0221/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 
 
 <details>	
   <summary><b>Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanprakash0221&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true" />
 </details>
 
 
