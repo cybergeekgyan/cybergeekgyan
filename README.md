@@ -17,7 +17,7 @@ Sophomore at Netaji Subhas University of Technology, Delhi.
 <a href="https://codesandbox.io/u/gyanprakash0221">
   <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/TarunKsingh2102">
+<a href="https://twitter.com/cybergeekgyan">
   <img align="left" alt="Gyan' Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/tarunksingh_21">
