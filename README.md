@@ -1,5 +1,14 @@
-### Hi there I'm [Gyan!]()  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
-Sophomore at Netaji Subhas University of Technology, Delhi.
+<h1 align="center">Hi 👋, I'm Gyan</h1>
+<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
+
+<h4 align="center">Sophomore at Netaji Subhas University of Technology, Delhi</h4>
+
+![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybergeekgyan" alt="cybergeekgyan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p>
+
 
 <!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +16,8 @@ Sophomore at Netaji Subhas University of Technology, Delhi.
 
 #### 🤔 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on *Human Body Measurement Using Computer Vision*
-- 🌱 I’m currently learning Bioinformatics, MERN and Flutter
+- 🔭 I’m currently working on *Retina Fundus Images Using Deep Learning and Computer Vision*
+- 🌱 I’m currently learning Bioinformatics/Computational Biotechnology, MERN stack and Flutter
 - 👯 I’m looking to collaborate on Web and App Development projects
 - 🤔 I’m looking for help with CyberSecurity and MERN stack.
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
@@ -128,4 +137,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [2]: https://www.linkedin.com/in/gyanprakash-/
  -->
 
-![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue)
+
