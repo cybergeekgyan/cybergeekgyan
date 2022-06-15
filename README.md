@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyan</h1>
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
-
-<h4 align="center">Sophomore at Netaji Subhas University of Technology, Delhi</h4>
+<h4 align="center">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
 ![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue)
 
