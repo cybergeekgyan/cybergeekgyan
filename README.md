@@ -2,11 +2,9 @@
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 <h4 align="center">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
-![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybergeekgyan" alt="cybergeekgyan" /></a> </p>
+![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) <a href="https://github.com/cybergeekgyan?tab=followers"><img src="https://img.shields.io/github/followers/cybergeekgyan?label=Followers&style=social" alt="GitHub Badge"></a><p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybergeekgyan" alt="cybergeekgyan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p>
 
 
 <!---
@@ -23,7 +21,7 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
 
 <a href="https://codesandbox.io/u/gyanprakash0221">
-  <img align="left" alt="Gyan Prakash | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
+  <img align="left" alt="Gyan Prakash | CodeSandbox" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/cybergeekgyan">
   <img align="left" alt="Gyan' Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
@@ -56,9 +54,20 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybergeekgyan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
 </a>
+
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeekgyan&layout=compact&theme=material-palenight" />
 </a>
+
+
+
+
+<br/>
+
+<a href="https://github.com/cybergeekgyan/github-readme-activity-graph"><img alt="Gyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybergeekgyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 
@@ -67,11 +76,10 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
   <summary><b>Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true" />
-</details>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true"/></details>
 
 
-## 🔧 Technologies & Tools
+## 🔧 Tools
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
