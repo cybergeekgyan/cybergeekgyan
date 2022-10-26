@@ -14,9 +14,9 @@
 #### 🤔 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Retina Fundus Images Using Deep Learning and Computer Vision*
-- 🌱 I’m currently learning Bioinformatics/Computational Biotechnology, MERN stack and Flutter
-- 👯 I’m looking to collaborate on Web and App Development projects
-- 🤔 I’m looking for help with CyberSecurity and MERN stack.
+- 🌱 I’m currently learning Bioinformatics/Computational Biotechnology, Web 3.0, Blockchain Technology and Flutter
+- 👯 I’m looking to collaborate on ML/AI/DL research projects
+- 🤔 I’m looking for help with CyberSecurity, Web3.0 and MERN stack
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
 
