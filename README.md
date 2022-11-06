@@ -26,7 +26,7 @@
 <a href="https://twitter.com/cybergeekgyan">
   <img align="left" alt="Gyan' Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
 </a>
-<a href="https://instagram.com/tarunksingh_21">
+<a href="https://instagram.com/tarunksingh_">
   <img align="left" alt="Gyan's Instagram | Instagram" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gyanprakash-/">
