@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyan</h1>
-<img align="right" alt="GIF" width="500px" src="https://github.com/cybergeekgyan/cybergeekgyan/blob/main/img/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif"/>
+<img align="right" alt="GIF" width="480px" src="https://github.com/cybergeekgyan/cybergeekgyan/blob/main/img/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif"/>
 <h3 align="left">Machine Learning & Data Science Enthusiast</h3>
 <h4 align="left">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
@@ -7,10 +7,6 @@
 
 ![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) <a href="https://github.com/cybergeekgyan?tab=followers"><img src="https://img.shields.io/github/followers/cybergeekgyan?label=Followers&style=social" alt="GitHub Badge"></a>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cybergeekgyan) <p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="center"> 
 
-### 💘 Github Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
-	
 	
 <!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +21,7 @@
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
 
-
-- <b>🔗 Connect with me :</b>
+- 🔗 Connect with me :
 	
 	
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
@@ -35,13 +30,16 @@
 Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Read a book a week
+* Read a book a month
 * Workout 3 days in a row and take a day break 
 * Avoid over usage of social media
 * Adapting the minimalism life style
-* 🔜
 
+### 💘 Github Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
+	
+	
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
