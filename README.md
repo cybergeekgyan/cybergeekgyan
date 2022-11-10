@@ -2,11 +2,15 @@
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 <h4 align="center">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
+<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
 
-![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) <a href="https://github.com/cybergeekgyan?tab=followers"><img src="https://img.shields.io/github/followers/cybergeekgyan?label=Followers&style=social" alt="GitHub Badge"></a><p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybergeekgyan" alt="cybergeekgyan" /></a> </p>
+![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) <a href="https://github.com/cybergeekgyan?tab=followers"><img src="https://img.shields.io/github/followers/cybergeekgyan?label=Followers&style=social" alt="GitHub Badge"></a>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cybergeekgyan) <p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="center"> 
 
+### 💘 Github Trophies:-
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
+	
+	
 <!---
 **gyanprakash0221/gyanprakash0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,23 +24,11 @@
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
 
-<a href="https://codesandbox.io/u/gyanprakash0221">
-  <img align="left" alt="Gyan Prakash | CodeSandbox" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/cybergeekgyan">
-  <img align="left" alt="Gyan' Twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/tarunksingh_">
-  <img align="left" alt="Gyan's Instagram | Instagram" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gyanprakash-/">
-  <img align="left" alt="Gyan's Linkedin | Linkedin" width="21px" src="https://raw.githubusercontent.com/gyanprakash0221/gyanprakash0221/master/assets/linkedin.svg" />
-</a>
-<a href="https://dev.to/gyanprakash0221">
-  <img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="GYAN PRAKASH's DEV Community Profile" height="26" width="26">
-</a>     
-<br />
-<br />
+
+- <b>🔗 Connect with me :</b>
+	
+	
+<a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 
 #### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
@@ -49,7 +41,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 * 🔜
 
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybergeekgyan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
@@ -59,14 +51,9 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeekgyan&layout=compact&theme=material-palenight" />
 </a>
 
+### 💘 Github Activity Graph
 
-
-
-<br/>
-
-<a href="https://github.com/cybergeekgyan/github-readme-activity-graph"><img alt="Gyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybergeekgyan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+[![Gyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybergeekgyan&theme=react-dark)](https://github.com/cybergeekgyan/github-readme-activity-graph)
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
@@ -76,7 +63,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
   <summary><b>Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true"/></details>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true"/></details>
 
 
 ## 🔧 Tools
