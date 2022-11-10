@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyan</h1>
-<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
-<h4 align="center">Senior at Netaji Subhas University of Technology, Delhi</h4>
+<img align="right" alt="GIF" width="500px" src="https://github.com/shrutijain0/shrutijain0/blob/main/ezgif.com-video-to-gif.gif"/>
+<h3 align="left">Machine Learning & Data Science Enthusiast</h3>
+<h4 align="left">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
 <h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
 
