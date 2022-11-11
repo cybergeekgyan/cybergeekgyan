@@ -3,7 +3,7 @@
 <h3 align="left">Machine Learning & Data Science Enthusiast</h3>
 <h4 align="left">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
+
 
 ![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) <a href="https://github.com/cybergeekgyan?tab=followers"><img src="https://img.shields.io/github/followers/cybergeekgyan?label=Followers&style=social" alt="GitHub Badge"></a>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cybergeekgyan) <p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="center"> 
 
