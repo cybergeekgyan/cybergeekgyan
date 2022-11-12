@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyan</h1>
 <img align="right" alt="GIF" width="480px" src="https://github.com/cybergeekgyan/cybergeekgyan/blob/main/img/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif"/>
-<h3 align="left">Machine Learning & Data Science Enthusiast</h3>
+<h3 align="left">Data Science Enthusiast</h3>
 <h4 align="left">Senior at Netaji Subhas University of Technology, Delhi</h4>
 
 
