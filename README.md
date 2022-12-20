@@ -50,10 +50,10 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeekgyan&layout=compact&theme=material-palenight" />
 </a>
 
-### 💘 Github Activity Graph
+<!-- ### 💘 Github Activity Graph
 
 [![Gyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybergeekgyan&theme=react-dark)](https://github.com/cybergeekgyan/github-readme-activity-graph)
-
+ -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 
