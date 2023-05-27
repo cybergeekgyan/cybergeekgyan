@@ -35,9 +35,9 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 * Avoid over usage of social media
 * Adapting the minimalism life style
 
-### 💘 Github Trophies
+<!-- ### 💘 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
+[![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	 -->
 	
 	
 <!-- ### &#x1f4c8; GitHub Stats
