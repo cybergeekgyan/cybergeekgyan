@@ -40,7 +40,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 [![trophy](https://github-profile-trophy.vercel.app/?username=cybergeekgyan&theme=gruvbox)](https://github.com/cybergeekgyan/github-profile-trophy)	
 	
 	
-### &#x1f4c8; GitHub Stats
+<!-- ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybergeekgyan&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Gyan's github stats" />
@@ -48,7 +48,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 
 <a href="https://github.com/cybergeekgyan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybergeekgyan&layout=compact&theme=material-palenight" />
-</a>
+</a> -->
 
 <!-- ### 💘 Github Activity Graph
 
