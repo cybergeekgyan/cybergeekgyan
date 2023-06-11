@@ -98,18 +98,20 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 <!-- 	[![Deep Learning for Computer Vision Research Exploration](https://your-image-url.jpg)](https://github.com/your-username/your-repository) -->
 
 ## Deep Learning for Computer Vision Research Exploration
-
-Join me in exploring the world of computer vision and deep learning through my project "Deep Learning for Computer Vision Research Exploration." We will dive into cutting-edge research papers, implement algorithms, and collaborate to expand our knowledge.
-
-- The project focuses on reading and understanding 30 computer vision research papers in 60 days. 
-- The goal is to explore cutting-edge techniques, implement selected algorithms, and foster collaboration among researchers and developers.<br>
-<br/>[Contribute Now](https://github.com/cybergeekgyan/Computer-Vision-Research-Exploration)
 	
----
+  
+  <img align ="center" src="https://github.com/cybergeekgyan/cybergeekgyan/blob/main/img/convolutional-neural-networks-for-visual-recognition_cs231n.jpg" alt="" width="400" height="200">
+  
+ <p> Join me in exploring the world of computer vision and deep learning through my project "Deep Learning for Computer Vision Research Exploration." We will dive into cutting-edge research papers, implement algorithms, and collaborate to expand our knowledge.
+
+ [![Contribute](https://img.shields.io/badge/Contribute-Get%20Involved-green.svg)](https://github.com/cybergeekgyan/Computer-Vision-Research-Exploration)</p>
+	  
+</div>
+	
+- The project focuses on reading and understanding 30 computer vision research papers in 60 days. 
+- The goal is to explore cutting-edge techniques, implement selected algorithms, and foster collaboration among researchers and developers.
 
 <br/>
-
-
 
 
 <!--
