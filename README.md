@@ -90,7 +90,21 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+	
+	
 
+## 🔭 Open-Source Project
+
+<!-- 	[![Deep Learning for Computer Vision Research Exploration](https://your-image-url.jpg)](https://github.com/your-username/your-repository) -->
+
+## Deep Learning for Computer Vision Research Exploration
+
+Join me in exploring the world of computer vision and deep learning through my project "Deep Learning for Computer Vision Research Exploration." We will dive into cutting-edge research papers, implement algorithms, and collaborate to expand our knowledge.
+
+- The project focuses on reading and understanding 30 computer vision research papers in 60 days. 
+- The goal is to explore cutting-edge techniques, implement selected algorithms, and foster collaboration among researchers and developers.<br>
+[Contribute Now](https://github.com/cybergeekgyan/Computer-Vision-Research-Exploration)
+	
 ---
 
 <br/>
@@ -129,5 +143,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/cybergeekgyan
 [2]: https://www.linkedin.com/in/gyanprakash-/
  -->
-
-
