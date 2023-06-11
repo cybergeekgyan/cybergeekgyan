@@ -103,7 +103,7 @@ Join me in exploring the world of computer vision and deep learning through my p
 
 - The project focuses on reading and understanding 30 computer vision research papers in 60 days. 
 - The goal is to explore cutting-edge techniques, implement selected algorithms, and foster collaboration among researchers and developers.<br>
-[Contribute Now](https://github.com/cybergeekgyan/Computer-Vision-Research-Exploration)
+<br/>[Contribute Now](https://github.com/cybergeekgyan/Computer-Vision-Research-Exploration)
 	
 ---
 
