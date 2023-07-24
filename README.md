@@ -5,7 +5,7 @@
 
 
 
-![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cybergeekgyan) <p align="left"> <a href="https://twitter.com/cybergeekgyan" target="blank"><img src="https://img.shields.io/twitter/follow/cybergeekgyan?logo=twitter&style=for-the-badge" alt="cybergeekgyan" /></a> </p><p align="center"> 
+![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)![](https://komarev.com/ghpvc/?username=gyanprakash0221&color=blue) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/cybergeekgyan) 
 
 	
 <!---
