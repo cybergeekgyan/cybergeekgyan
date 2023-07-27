@@ -19,11 +19,8 @@
 - 👯 I’m looking to collaborate on ML/AI/DL research projects
 - 🤔 I’m looking for help with CyberSecurity, Web3.0 and MERN stack
 - 💬 Ask me about [here](https://github.com/gyanprakash0221/gyanprakash0221/issues)
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gyanprakash.tech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyanprakash.tech@gmail.com)](mailto:gyanprakash.tech@gmail.com)
-
 - 🔗 Connect with me :
-	
-	
+		
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 
 #### 🌱 Challenges that I’m currently challenging myself:
