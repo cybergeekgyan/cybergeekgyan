@@ -89,10 +89,12 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 <br/>
 	
 	
-
+<!---
 ## 🔭 Open-Source Project
 
 <!-- 	[![Deep Learning for Computer Vision Research Exploration](https://your-image-url.jpg)](https://github.com/your-username/your-repository) -->
+
+<!---
 
 ## Deep Learning for Computer Vision Research Exploration
 	
@@ -110,7 +112,7 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 
 <br/>
 
-
+-->
 <!--
 <details>	
   <br />
