@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm passionate about data science and technology. 
 - [Project 3: Natural Language Processing](link-to-project3): Text sentiment analysis using NLP techniques.
  -->
 
-### 🌱 Challenges that I’m currently challenging myself:
+### ⏰ Challenges that I’m currently challenging myself:
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
@@ -120,15 +120,16 @@ I set a couple self-challenges in order to push myself more further.
 [![Gyan's github activity graph](https://activity-graph.herokuapp.com/graph?username=cybergeekgyan&theme=react-dark)](https://github.com/cybergeekgyan/github-readme-activity-graph)
  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
+
 
 
 ## 🌱 Open to Collaboration
 
 I'm always interested in collaborating on exciting data science projects or contributing to open-source initiatives. Feel free to reach out if you have a project idea or just want to connect.
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 😊 ❤️
 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 	
 <!---
 ## 🔭 Open-Source Project
