@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about data science and technology. 
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="40px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
 
 
-# 💼 Technical Skills
+## 💼 Technical Skills
 
 **Languages** : ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
 
