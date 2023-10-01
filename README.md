@@ -36,44 +36,69 @@ Welcome to my GitHub profile! I'm passionate about data science and technology. 
 
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="40px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
 
-## 💼 Technical Skills
+
+# 💼 Technical Skills
+
+**Languages** : ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+
+**Functional Programming Languages** ![Haskell](https://img.shields.io/badge/-Haskell-%235E5086?style=flat-square&logo=haskell&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=flat-square&logo=scala&logoColor=ffffff)
+
+**Front-End** : ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
+
+**APIs** : ![REST](https://img.shields.io/badge/-REST-%235965B4?style=flat-square&logo=rest&logoColor=ffffff) ![GraphQL](https://img.shields.io/badge/-GraphQL-%23E535AB?style=flat-square&logo=graphql&logoColor=ffffff)
+
+**Back-End** :  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff) 
+
+**Databases** : ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+
+**Deployment** : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
+
+
+**Monitoring** : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
 
 ### Data Analysis
-- 📊 Data Visualization: Creating insightful visualizations with Matplotlib and Seaborn.
-- 📈 Statistical Analysis: Proficient in hypothesis testing and A/B testing.
-- 📉 Data Cleaning: Expertise in data preprocessing and handling missing data.
+- 📊 Data Visualization: Creating insightful visualizations with ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
+ ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![Seaborn](https://img.shields.io/badge/-Seaborn-%23747DBA?style=flat-square&logo=python&logoColor=ffffff)
+
+- 📈 Statistical Analysis: Proficient in hypothesis testing and A/B testing with ![Scipy](https://img.shields.io/badge/-Scipy-%230C55A5?style=flat-square&logo=python&logoColor=ffffff) ![Statsmodels](https://img.shields.io/badge/-Statsmodels-%236440A7?style=flat-square&logo=python&logoColor=ffffff) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
+- 📉 Data Cleaning: Expertise in data preprocessing and handling missing data with ![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=flat-square&logo=numpy&logoColor=ffffff)
+
 
 ### Machine Learning
-- 🤖 Machine Learning Algorithms: Implementing various algorithms for classification, regression, and clustering.
+- 🤖 Machine Learning Algorithms with ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff) ![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+
 - 📚 Model Evaluation: Employing metrics like accuracy, precision, recall, and F1-score.
-- 📦 Libraries: Sklearn, TensorFlow, PyTorch.
 
 ### Data Engineering
-- 🛠️ ETL Pipelines: Building robust Extract, Transform, Load pipelines.
-- 🐘 Big Data: Working with distributed systems like Hadoop and Spark.
-- 🧰 Database Management: SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).
+- 🛠️ ETL Pipelines: Building robust ETL/ELT/Reverse ELT pipelines with ![Apache NiFi](https://img.shields.io/badge/-Apache_NiFi-%23FF5733?style=flat-square&logo=apachenifi&logoColor=ffffff) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-%23E25A1C?style=flat-square&logo=apachespark&logoColor=ffffff) ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-%23017CEE?style=flat-square&logo=apacheairflow&logoColor=ffffff)
+- 🐘 Big Data: Working with distributed systems like ![Apache Hadoop](https://img.shields.io/badge/-Apache_Hadoop-%23E25A1C?style=flat-square&logo=apachehadoop&logoColor=ffffff) ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-%23E25A1C?style=flat-square&logo=apachespark&logoColor=ffffff) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-%23E25A1C?style=flat-square&logo=apachekafka&logoColor=ffffff)
+- 🧰 Database Management: ![Hadoop HDFS](https://img.shields.io/badge/-Hadoop_HDFS-%23E25A1C?style=flat-square&logo=apachehadoop&logoColor=ffffff) ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-%23FF9900?style=flat-square&logo=amazonaws&logoColor=ffffff) ![Google Cloud Storage](https://img.shields.io/badge/-Google_Cloud_Storage-%234285F4?style=flat-square&logo=googlecloud&logoColor=ffffff)
+
+
+<!--
 
 ## 📊 Featured Projects
 
-- [Project 1: Predictive Analytics](link-to-project1): Developed a predictive model to forecast stock prices.
+- [Project 1: Fonts App Eye Tracker ](https://github.com/cybergeekgyan/FontsApp-Eye-Tracker): Developed a predictive model to forecast stock prices.
 - [Project 2: Recommender System](link-to-project2): Built a movie recommender system using collaborative filtering.
 - [Project 3: Natural Language Processing](link-to-project3): Text sentiment analysis using NLP techniques.
+ -->
 
-## 🌱 Open to Collaboration
-
-I'm always interested in collaborating on exciting data science projects or contributing to open-source initiatives. Feel free to reach out if you have a project idea or just want to connect.
-
-Thanks for visiting my profile! 😊
-
-
-#### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous amount of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+### 🌱 Challenges that I’m currently challenging myself:
+I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
 * Read a book a month
 * Workout 3 days in a row and take a day break 
 * Avoid over usage of social media
 * Adapting the minimalism life style
+
+<details>	
+  <summary><b>Github Streaks</b></summary>
+
+  <br />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true"/></details>
+
 
 <!-- ### 💘 Github Trophies
 
@@ -98,34 +123,12 @@ Since the world is in the quarantine stage, and I’m having tremendous amount o
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 
 
-<details>	
-  <summary><b>Github Streaks</b></summary>
+## 🌱 Open to Collaboration
 
-  <br />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=cybergeekgyan&hide_border=true"/></details>
+I'm always interested in collaborating on exciting data science projects or contributing to open-source initiatives. Feel free to reach out if you have a project idea or just want to connect.
 
+Thanks for visiting my profile! 😊
 
-## 🔧 Tools
-
-**Languages** : ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-**Front-End** : ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
-<br/>
-	
 	
 <!---
 ## 🔭 Open-Source Project
