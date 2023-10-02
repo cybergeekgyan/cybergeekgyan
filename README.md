@@ -26,7 +26,7 @@
 
 # Hi there, I'm Gyan 👋
 
-Welcome to my GitHub profile! I'm passionate about data science and technology. Here, you'll find some of my projects and get to know more about my skills and interests.
+Welcome! I'm passionate about data science and artificial intelligence technology. Here, you'll find some of my projects and get to know more about my skills and interests.
 
 ## 🚀 About Me
 
