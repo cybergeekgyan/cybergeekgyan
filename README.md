@@ -129,9 +129,11 @@ I'm always interested in collaborating on exciting data science projects or cont
 
 Thanks for visiting my profile! 😊 ❤️
 
+
+<!---
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/cybergeekgyan/github-readme-stats)*
 	
-<!---
+
 ## 🔭 Open-Source Project
 
 <!-- 	[![Deep Learning for Computer Vision Research Exploration](https://your-image-url.jpg)](https://github.com/your-username/your-repository) -->
