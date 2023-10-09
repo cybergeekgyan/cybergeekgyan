@@ -34,7 +34,7 @@ Welcome! I'm passionate about data science and artificial intelligence technolog
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Contact with me: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
 
-<a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="40px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
 
 
 ## 💼 Technical Skills
