@@ -30,7 +30,7 @@ Welcome! I'm passionate about data science and artificial intelligence technolog
 
 ## 🚀 About Me
 
-- 👨‍💻 Data Scientist | Machine Learning Engineer 
+- 👨‍💻 Data Scientist | Software Engineer 
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Contact with me: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
 
