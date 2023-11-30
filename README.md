@@ -30,7 +30,8 @@ Welcome! I'm passionate about data science and artificial intelligence technolog
 
 ## 🚀 About Me
 
-- 👨‍💻 Data Scientist | Software Engineer 
+- 👨‍💻 Data Scientist | Software Engineer
+- 🔥 Building @OrbiGenAI Innovations Lab - A research based lab focussed on creating AI Solutions
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Contact with me: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
 
