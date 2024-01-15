@@ -24,9 +24,13 @@
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/tarunksingh_"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 -->
 
-# Hi there, I'm Gyan 👋
+# Hi, I'm Gyan 👋
 
-Welcome! I'm passionate about data science and artificial intelligence technology. Here, you'll find some of my projects and get to know more about my skills and interests.
+Welcome! I'm a passionate data scientist and AI professional with a keen interest in product development and management. Leveraging data-driven insights and machine learning techniques to drive innovation and deliver impactful solutions. Excited about collaborating on projects that combine cutting-edge technology, business strategy, and user-centric design. Constantly expanding skills in data analysis, predictive modeling, and deep learning. 
+
+Let's build amazing products together! Here, you'll find some of my projects and get to know more about my skills and interests.
+
+
 
 ## 🚀 About Me
 
