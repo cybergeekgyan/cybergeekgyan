@@ -39,29 +39,28 @@ Let's build amazing products together! Here, you'll find some of my projects and
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Contact with me: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
 
-<a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
+<!---
 
+<a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
+-->
 
 ## 💼 Technical Skills
 
-**Languages** : ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+Languages : ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff) ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
 
-**Functional Programming Languages** ![Haskell](https://img.shields.io/badge/-Haskell-%235E5086?style=flat-square&logo=haskell&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=flat-square&logo=scala&logoColor=ffffff)
+Functional Programming Languages ![Haskell](https://img.shields.io/badge/-Haskell-%235E5086?style=flat-square&logo=haskell&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-%23DC322F?style=flat-square&logo=scala&logoColor=ffffff)
 
-**Front-End** : ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
+Front-End : ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 
-**APIs** : ![REST](https://img.shields.io/badge/-REST-%235965B4?style=flat-square&logo=rest&logoColor=ffffff) ![GraphQL](https://img.shields.io/badge/-GraphQL-%23E535AB?style=flat-square&logo=graphql&logoColor=ffffff)
+APIs : ![REST](https://img.shields.io/badge/-REST-%235965B4?style=flat-square&logo=rest&logoColor=ffffff) ![GraphQL](https://img.shields.io/badge/-GraphQL-%23E535AB?style=flat-square&logo=graphql&logoColor=ffffff)
 
-**Back-End** :  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff) 
+Back-End :  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff) 
 
-**Databases** : ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+Databases : ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 
-**Deployment** : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
+Deployment : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
 
-
-**Monitoring** : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
-
-
+Monitoring : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
 
 
 
