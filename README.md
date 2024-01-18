@@ -38,16 +38,33 @@ Let's build amazing products together! Here, you'll find some of my projects and
 - 🔥 Building @OrbiGenAI Innovations Lab - A research based lab focussed on creating AI Solutions
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Email: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
-- 💼 LinkedIn: Your LinkedIn Profile
-- 🐦 Twitter: <a href="https://twitter.com/orbigenai">
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height = '25px' width="30px"/> </a>
+- 🐦 Twitter: <a href="https://twitter.com/cybergeekgyan">
     <img src="https://img.shields.io/twitter/follow/cybergeekgyan?style=flat&label=cybergeekgyan&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
 
-## 📬 Contact
-
-Feel free to reach out if you have questions, suggestions, or just want to chat!
 
 
-Happy coding! ✨
+<!-- Project Title 
+# 🚀 Your Name's Awesome Projects Showcase 🚀
+
+Welcome to my GitHub repository! Below, you'll find a curated list of some of my best projects. Each project represents my passion, dedication, and love for coding.
+
+<!-- Shields 
+![GitHub followers](https://img.shields.io/github/followers/cybergeekgyan?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cybergeekgyan/project-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/cybergeekgyan/project-repo?style=social)
+
+-->
+
+
+
+
+
+
+
+
+
+
 
 <!---
 
@@ -146,6 +163,8 @@ I set a couple self-challenges in order to push myself more further.
 I'm always interested in collaborating on exciting data science projects or contributing to open-source initiatives. Feel free to reach out if you have a project idea or just want to connect.
 
 Thanks for visiting my profile! 😊 ❤️
+
+Happy coding! ✨
 
 
 <!---
