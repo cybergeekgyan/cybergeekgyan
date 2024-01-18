@@ -37,7 +37,17 @@ Let's build amazing products together! Here, you'll find some of my projects and
 - 👨‍💻 Data Scientist | Software Engineer
 - 🔥 Building @OrbiGenAI Innovations Lab - A research based lab focussed on creating AI Solutions
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
-- 📧 Contact with me: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
+- 📧 Email: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
+- 💼 LinkedIn: Your LinkedIn Profile
+- 🐦 Twitter: <a href="https://twitter.com/orbigenai">
+    <img src="https://img.shields.io/twitter/follow/cybergeekgyan?style=flat&label=cybergeekgyan&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
+
+## 📬 Contact
+
+Feel free to reach out if you have questions, suggestions, or just want to chat!
+
+
+Happy coding! ✨
 
 <!---
 
