@@ -107,7 +107,7 @@ Deployment : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat
 
 Monitoring : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
 
-
+<!--
 
 ### Data Analysis
 - 📊 Data Visualization: Creating insightful visualizations with ![Matplotlib](https://img.shields.io/badge/-Matplotlib-%230076D6?style=flat-square&logo=python&logoColor=ffffff)
@@ -137,7 +137,7 @@ Monitoring : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?st
 - [Project 3: Natural Language Processing](link-to-project3): Text sentiment analysis using NLP techniques.
  -->
 
-### ⏰ Challenges that I’m currently challenging myself:
+## ⏰ Challenges for myself:
 I set a couple self-challenges in order to push myself more further. 
 
 * Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
