@@ -87,7 +87,7 @@ Welcome to my GitHub repository! Below, you'll find a curated list of some of my
 <!---
 
 <a href="https://www.linkedin.com/in/gyanprakash-/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/cybergeekgyan"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40px"/> </a>&nbsp;&nbsp;
--->
+
 
 ## 💼 Technical Skills
 
@@ -106,7 +106,7 @@ Databases : ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-sq
 Deployment : ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff) ![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
 
 Monitoring : ![Prometheus](https://img.shields.io/badge/-Prometheus-%23E6522C?style=flat-square&logo=prometheus&logoColor=ffffff) ![Grafana](https://img.shields.io/badge/-Grafana-%23F46800?style=flat-square&logo=grafana&logoColor=ffffff)
-
+-->
 <!--
 
 ### Data Analysis
