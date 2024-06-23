@@ -26,8 +26,11 @@
 
 # Hi, I'm Gyan 👋
 
-Welcome! I'm a passionate data scientist and AI professional with a keen interest in product development and management. Leveraging data-driven insights and machine learning techniques to drive innovation and deliver impactful solutions. Excited about collaborating on projects that combine cutting-edge technology, business strategy, and user-centric design. Constantly expanding skills in data analysis, predictive modeling, and deep learning. 
+Welcome! I'm a passionate data scientist and AI professional with a keen interest in product development and management. 
 
+<!--
+Leveraging data-driven insights and machine learning techniques to drive innovation and deliver impactful solutions. Excited about collaborating on projects that combine cutting-edge technology, business strategy, and user-centric design. Constantly expanding skills in data analysis, predictive modeling, and deep learning. 
+-->
 Let's build amazing products together! Here, you'll find some of my projects and get to know more about my skills and interests.
 
 
