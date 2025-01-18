@@ -26,7 +26,7 @@
 
 # Hi, I'm Gyan 👋
 
-Welcome! I'm a passionate data scientist and AI professional with a keen interest in product development and management. 
+Welcome! I'm a passionate Data Scientist and AI professional with a keen interest in Quant Finance, Tech & Product Development.
 
 <!--
 Leveraging data-driven insights and machine learning techniques to drive innovation and deliver impactful solutions. Excited about collaborating on projects that combine cutting-edge technology, business strategy, and user-centric design. Constantly expanding skills in data analysis, predictive modeling, and deep learning. 
