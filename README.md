@@ -37,7 +37,7 @@ Let's build amazing products together! Here, you'll find some of my projects and
 
 ## 🚀 About Me
 
-- 👨‍💻 Data Scientist | Software Engineer
+- 👨‍💻 Senior Data Scientist | AI Software Engineer
 - 🔥 Building @OrbiGenAI Innovations Lab - A research-based lab focussed on creating AI Solutions
 - 🌐 [Portfolio Website](https://gyanprakash.tech)
 - 📧 Email: [gyanprakash.tech@gmail.com](mailto:gyanprakash.tech@gmail.com)
